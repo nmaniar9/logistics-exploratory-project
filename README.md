@@ -1,7 +1,7 @@
 # logistics-exploratory-project
 Exploration of logistics company dataset with SQL and Python as a final project for Statisitical Data Management
 
-
+d+
 Disclaimer: 
 I no longer have access to the compnay database, I just hope to demonstrate skills learnend in the process.
 
