@@ -1,7 +1,6 @@
 # logistics-exploratory-project
 Exploration of logistics company dataset with SQL and Python as a final project for Statisitical Data Management
 
-d+
 Disclaimer: 
 I no longer have access to the compnay database, I just hope to demonstrate skills learnend in the process.
 
@@ -21,6 +20,6 @@ Improvements:
 
 Need to clean the data before exploration, looking for duplicates, null values and outliers in columns. 
 
-checking for better predictive model s- not confident logistic model was the best fit for this data set. 
+checking for better predictive model, not confident logistic model was the best fit for this data set. 
 
 While looking back at the incorrect results it was difficult to check the results since the data tables were manipulated and then split into training datasets.
