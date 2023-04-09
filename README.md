@@ -1,9 +1,6 @@
 # logistics-exploratory-project
 Exploration of logistics company dataset with SQL and Python as a final project for Statisitical Data Management
 
-Disclaimer: 
-I no longer have access to the compnay database, I just hope to demonstrate skills learnend in the process.
-
 SUMMARY:
 Using a real trucking company's database I explore which variables contribute most to the cost of goods sold (COGS). Also created a train and test data set to implement a small logisitic regression model predicting the COGS. Accuracy of the model was 67%
 
